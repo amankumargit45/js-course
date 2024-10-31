@@ -2,9 +2,9 @@
 
 //alert(3+3) error bcoz we are using nodejs , not browser
 console.log(4 + 3);
-let name="aman"
-let age=18
-let isloggedin=false
+let name = "aman"
+let age = 18
+let isloggedin = false
 // number=> 2^53 range
 //bigint
 //string=>""
