@@ -26,4 +26,19 @@ const myfunction=function(){
     console.log("hello wo0rld");
 }
 
-console.log();
+// console.log(heroes);
+
+// memory manaagement in js
+//+++++++++++++++++++++++++++++++
+//
+
+//Stack(primitive)here copy is given and heap(non-primitive)here refernce is given
+
+let myname="aman"
+
+let anothername=myname
+anothername="chai"
+console.log(myname);
+
+console.log(anothername);
+
